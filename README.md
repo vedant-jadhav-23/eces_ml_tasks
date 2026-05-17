@@ -18,6 +18,7 @@ This repository contains my completed tasks for the ML vertical.
 
 ## Housing Prices Competition
 - Competition Link: https://www.kaggle.com/competitions/home-data-for-ml-course
+- Final Submission Link: https://www.kaggle.com/code/vedantjadhav29/final-submission-housing-prices
 - Submission Screenshot:
 
 ![Submission Screenshot](submission.png)
